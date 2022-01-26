@@ -21,12 +21,12 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'Farms',
+    label: 'Farms (coming soon)',
     icon: 'FarmIcon',
     href: '/farms',
   },
   {
-    label: 'Pools',
+    label: 'Pools (coming soon)',
     icon: 'PoolIcon',
     href: '/pools',
   },
